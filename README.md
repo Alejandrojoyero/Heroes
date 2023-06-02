@@ -1,6 +1,6 @@
 # Heroes
 ## Integrantes
 Ludmila Tevez
-Gisel Arevalo
+Gisel Arevalo, 32, Salta capital
 Cristian Sanguine
 Alejandro Salinas
